@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ラフレシア",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-10T05:58:36.221288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラフレシア",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_ラフレシア_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラフレシア",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/02_ラフレシア_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラフレシア",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_ラフレシア_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
